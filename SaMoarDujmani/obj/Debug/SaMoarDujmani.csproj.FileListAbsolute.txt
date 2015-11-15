@@ -1,0 +1,6 @@
+c:\users\titus.popovici\documents\visual studio 2013\Projects\SaMoarDujmani\SaMoarDujmani\bin\Debug\SaMoarDujmani.exe.config
+c:\users\titus.popovici\documents\visual studio 2013\Projects\SaMoarDujmani\SaMoarDujmani\obj\Debug\SaMoarDujmani.csprojResolveAssemblyReference.cache
+c:\users\titus.popovici\documents\visual studio 2013\Projects\SaMoarDujmani\SaMoarDujmani\bin\Debug\SaMoarDujmani.exe
+c:\users\titus.popovici\documents\visual studio 2013\Projects\SaMoarDujmani\SaMoarDujmani\bin\Debug\SaMoarDujmani.pdb
+c:\users\titus.popovici\documents\visual studio 2013\Projects\SaMoarDujmani\SaMoarDujmani\obj\Debug\SaMoarDujmani.exe
+c:\users\titus.popovici\documents\visual studio 2013\Projects\SaMoarDujmani\SaMoarDujmani\obj\Debug\SaMoarDujmani.pdb
